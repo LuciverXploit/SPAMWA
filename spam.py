@@ -23,7 +23,7 @@ def baner():
    {warna}╔═╗{W}┌─┐┌─┐┌┬┐  {warna}╦ ╦{W}┌─┐
    {warna}╚═╗{W}├─┘├─┤│││  {warna}║║║{W}├─┤ V{warna}2.0
    {warna}╚═╝{W}┴  ┴ ┴┴ ┴  {warna}╚╩╝{W}┴ ┴ """)
-    print("   "+Back.WHITE+BL+"     By : Fahmi Apz    \033[00m")
+    print("   "+Back.WHITE+BL+"     By : LuciverXploit    \033[00m")
 
 def wa1(no):
     headers={"Accept":"application/json","X-APP-VERSION-NAME":"3.4.0","X-APP-VERSION-CODE":"3399","Content-Type":"application/json; charset=UTF-8","Host":"api.bukuwarung.com","Connection":"Keep-Alive","Accept-Encoding":"gzip","User-Agent":"okhttp/4.8.1"}
